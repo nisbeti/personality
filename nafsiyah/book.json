@@ -1,0 +1,42 @@
+{
+  "slug": "nafsiyah",
+  "storage_key": "nafsiyah",
+  "domain": null,
+  "dev_port": 8774,
+  "source": "source/بناء النفسية الإسلامية وتنميتها.docx",
+  "metadata": {},
+  "title": {
+    "ar": "بناء النفسية الإسلامية وتنميتها",
+    "en": "Building and Developing the Islamic Psychology"
+  },
+  "subtitle": {
+    "ar": "",
+    "en": ""
+  },
+  "description": "Building and Developing the Islamic Psychology, by Bilal Fathi Salim: how the Islamic nafsiyya is formed from concepts, the methods Islam uses, and how to preserve and develop it - read the book in Arabic or English.",
+  "about_book": {
+    "ar": [
+      "يبيّن هذا الكتاب كيف تتكوّن النفسية الإسلامية، فيبدأ بتحديد المفاهيم: الشخصية والعقلية والنفسية والأفكار والمفاهيم، ثم يعرض تكوين النفسية بربط الواقع بالمعلومات وربط المعلومات بالواقع، ويستشهد بألفاظ التذكّر في القرآن الكريم، ثم يعرض أساليب الإسلام في إيجاد التصوّر الصحيح للمفهوم.",
+      "ثم يتناول المحافظة على النفسية وتنميتها: بالتقوى والبيئة الصالحة والثقافة الإسلامية والتوبة والقربات والدعاء والتدبر، ويعرض أهم الأفكار التي تسهم في صياغتها: العقائد الأساسية والفرعية والمقاييس والمفاهيم، ويطبّق ذلك على مثال الخوف."
+    ],
+    "en": [
+      "This book explains how the Islamic psychology (<em>nafsiyya</em>) is formed. It begins by defining the concepts: personality, mentality, <em>nafsiyya</em>, ideas and concepts. It then sets out how the <em>nafsiyya</em> is built by linking reality to information and information to reality, drawing on the Qur’an’s use of the word for remembrance (<em>tadhakkur</em>), and the methods Islam uses to form the correct conception of a concept.",
+      "It then turns to preserving and developing the <em>nafsiyya</em>, through God-consciousness, a righteous environment, Islamic culture, repentance, acts of nearness to God, supplication and reflection. It sets out the main ideas that shape it, the basic and secondary beliefs, the standards and the concepts, and applies this to the example of fear."
+    ]
+  },
+  "about_author": {
+    "ar": [
+      "تأليف الأستاذ بلال فتحي سليم."
+    ],
+    "en": [
+      "By Bilal Fathi Salim. The file gives no publisher or edition."
+    ]
+  },
+  "index": {
+    "first_page": null,
+    "sections": {},
+    "toc_overrides": {},
+    "refs_fixed": true
+  },
+  "source_pdf": "source/بناء النفسية الإسلامية وتنميتها.pdf"
+}
